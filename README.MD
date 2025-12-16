@@ -6,5 +6,5 @@ With a focus on automation and scripting, included are Python projects to contin
 
 <h3>Projects</h3>
 
-- <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-manager.py">Password Manager</a>
+- <a href="https://github.com/securedbyjames/Python-Projects/blob/main/password-generator.py">Password Generator</a>
 
